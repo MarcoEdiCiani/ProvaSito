@@ -1,6 +1,5 @@
 # Sito web per squadra di calcio
-sito web di base creato come progetto di esempio per una squadra di calcio. 
-il sito utilizza HTML5 e CSS3 per visualizzare le informazioni di base.
+Sito web di base creato come progetto di esempio per una squadra di calcio. 
 ## Funzionalità
 - **Home**: Una pagina principale con informazioni sulla squadra.
 - **Obiettivi**: Una sezione dedicata agli obbiettivi societari.
