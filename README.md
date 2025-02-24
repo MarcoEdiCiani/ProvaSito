@@ -10,7 +10,7 @@ Sito web di base creato come progetto di esempio per una squadra di calcio.
 ## Tecnologie Utilizzate
 - **HTML5**: Struttura base del sito web.
 - **CSS3**: Per la formattazione e il layout del sito, incluse tecniche di responsività.
-- **Immagini**: Logo della squadra e altre risorse visive.
+- **Assets**: Cartella contenente i vari assets utilizzati.
 
 ## Contribuire
 
